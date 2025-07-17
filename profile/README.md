@@ -5,10 +5,10 @@
 ## 💡 About Us
 
 - 🙋‍♀️ A short introduction
-💡Mission Statement:
+    - 💡Mission Statement:
 To empower young entrepreneurs and businesses through digital innovative solutions and an excellent user experience. 
 
-🔭Vision Statement:
+    - 🔭Vision Statement:
 To become a leading technological firm in Africa, recognised for our exceptional customer service and innovation, and impact on the lives of business entities
 
 - 🔭 We're currently working on ... creating business portfolios for individuals
